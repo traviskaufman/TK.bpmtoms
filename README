@@ -1,0 +1,8 @@
+*******************************************************
+* TK.bpmtoms                                          *
+* MaxMSP BPM to Millisecond Converter External Object *
+* Author: Travis Kaufman                              *
+* Version: 1.2.0                                      *
+*******************************************************
+
+This object takes tempo information and converts it into a millisecond value, which can be used for tempo-synched delays, tempo-synched LFOs, or anything else that you would like “tempo-synched.”

@@ -1,0 +1,493 @@
+Tmax-external
+v7
+r0
+t337017502.769511
+cCheck dependencies
+cProcessInfoPlistFile /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/Info.plist /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../Info.plist
+cSymLink /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+cCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c normal ppc c com.apple.compilers.gcc.4_2
+cCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/commonsyms.o /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c normal ppc c com.apple.compilers.gcc.4_2
+cCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms normal ppc
+cCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/commonsyms.o /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms normal i386
+cCreateUniversalBinary /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms normal "ppc i386"
+cTouch /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Controls.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Files.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/MacTypes.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/QTML.h
+c000000004A119632000000000000002D
+t1242666546
+s45
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Quickdraw.h
+c000000004A1196320000000000000035
+t1242666546
+s53
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Types.h
+c000000004A1196320000000000000027
+t1242666546
+s39
+
+N/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon/Windows.h
+c000000004A119632000000000000001B
+t1242666546
+s27
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004C23C4D00000000000000659
+t1277412560
+s1625
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/powerpc-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB3D00000000000010DD
+t1242688317
+s4317
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes/macho-prefix.pch
+c000000004CE686CA00000000000000A4
+t1290176202
+s164
+i<Carbon/Carbon.h>
+i<QuickTime/QuickTime.h>
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+t1315324702
+s102
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/Info.plist
+t1314737999
+s817
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms
+t1315324702
+s27008
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/PkgInfo
+t1314737999
+s8
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../Info.plist
+c000000004CE686C600000000000003CB
+t1290176198
+s971
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/MaxGCD.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c
+c000000004E68F05D0000000000000F27
+t1315500125
+s3879
+i<stdio.h>
+i<stdlib.h>
+i"ext.h"
+i"ext_obex.h"
+i"ext_strings.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo
+t3
+s112
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/MaxGCD.o
+t2
+s0
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms
+t1315324702
+s10624
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.LinkFileList
+c000000004E61725D0000000000000150
+t1315009117
+s336
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.o
+t1315324701
+s9384
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/commonsyms.o
+t1315009119
+s40360
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/MaxGCD.o
+t2
+s0
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms
+t1315324702
+s10276
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.LinkFileList
+c000000004E61725D000000000000014E
+t1315009117
+s334
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.o
+t1315324701
+s10152
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/commonsyms.o
+t1315009118
+s40460
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/MaxAPI.framework/MaxAPI
+c000000004CE686CA00000000000FDBEC
+t1290176202
+s1039340
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c
+c000000004CE686CA000000000000010D
+t1290176202
+s269
+i"ext.h"
+i"commonsyms.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/commonsyms.h
+c000000004CE686CA000000000001CD3A
+t1290176202
+s118074
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext.h
+c000000004CE686CA00000000000003FC
+t1290176202
+s1020
+i"ext_prefix.h"
+i"ext_mess.h"
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_byteorder.h"
+i"ext_proto.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_atomarray.h
+c000000004CE686CA0000000000001DD8
+t1290176202
+s7640
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_byteorder.h
+c000000004CE686CA00000000000022D1
+t1290176202
+s8913
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_dictionary.h
+c000000004CE686CA00000000000070CC
+t1290176202
+s28876
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_expr.h
+c000000004CE686CA00000000000012CA
+t1290176202
+s4810
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_hashtab.h
+c000000004CE686CA000000000000311E
+t1290176202
+s12574
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_linklist.h
+c000000004CE686CA00000000000050B4
+t1290176202
+s20660
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_maxtypes.h
+c000000004CE686CA00000000000009C0
+t1290176202
+s2496
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_mess.h
+c000000004CE686CA0000000000002991
+t1290176202
+s10641
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_obex.h
+c000000004CE686CA0000000000014F81
+t1290176202
+s85889
+i"commonsyms.h"
+i"ext_linklist.h"
+i"ext_hashtab.h"
+i"ext_atomarray.h"
+i"ext_obex_util.h"
+i"ext_dictionary.h"
+i"ext_obstring.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_obex_util.h
+c000000004CE686CA0000000000019853
+t1290176202
+s104531
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_obstring.h
+c000000004CE686CA00000000000004F4
+t1290176202
+s1268
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_path.h
+c000000004CE686CA00000000000063C7
+t1290176202
+s25543
+i<Files.h>
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_prefix.h
+c000000004CE686CA0000000000001655
+t1290176202
+s5717
+i<MacTypes.h>
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stdarg.h>
+i<ctype.h>
+i<math.h>
+i<string.h>
+i<setjmp.h>
+i<assert.h>
+i<windows.h>
+i<richedit.h>
+i<commctrl.h>
+i"ext_prefix_win.h"
+i"qtml.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_proto.h
+c000000004CE686CA0000000000013127
+t1290176202
+s78119
+i"ext_types.h"
+i"ext_maxtypes.h"
+i"ext_sysmem.h"
+i"ext_sysfile.h"
+i"ext_systime.h"
+i"ext_expr.h"
+i"ext_path.h"
+i"ext_qtimage.h"
+i"ext_wind.h"
+i"ext_proto_win.h"
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_proto_win.h
+c000000004CE686CA0000000000000247
+t1290176202
+s583
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_qtimage.h
+c000000004CE686CA00000000000005E7
+t1290176202
+s1511
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_strings.h
+c000000004CE686CA0000000000000822
+t1290176202
+s2082
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_sysfile.h
+c000000004CE686CA0000000000002277
+t1290176202
+s8823
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_sysmem.h
+c000000004CE686CA00000000000016E4
+t1290176202
+s5860
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_systime.h
+c000000004CE686CA0000000000000C29
+t1290176202
+s3113
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_types.h
+c000000004CE686CA000000000000135F
+t1290176202
+s4959
+i<Types.h>
+i<Quickdraw.h>
+i<MacTypes.h>
+i<Quickdraw.h>
+i<Controls.h>
+
+N/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/ext_wind.h
+c000000004CE686CA0000000000000683
+t1290176202
+s1667
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies337017495#337017495#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/MaxGCD.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/MaxGCD.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c normal i386 c com.apple.compilers.gcc.4_2
+s337017495.814851
+e337017501.508930
+r1
+xCompileC
+xbuild/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.o
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c337017495#337017501#0(0"0(0#0#94"/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c8604535168#2308"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/TK.bpmtoms.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources/i386 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources -include /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes/macho-prefix.pch -c /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.o0#
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/commonsyms.o /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c normal i386 c com.apple.compilers.gcc.4_2
+s336701918.188412
+e336701919.082926
+r1
+xCompileC
+xbuild/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/commonsyms.o
+x/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c336701918#336701919#0(0"0(0#0#92"/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c8617755136#2306"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/TK.bpmtoms.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources/i386 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources -include /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes/macho-prefix.pch -c /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/commonsyms.o0#
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/MaxGCD.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/MaxGCD.c normal ppc c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c normal ppc c com.apple.compilers.gcc.4_2
+s337017495.768511
+e337017501.388091
+r1
+xCompileC
+xbuild/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.o
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c337017495#337017501#0(0"0(0#0#94"/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c8666465417246499840#2315"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G4 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/TK.bpmtoms.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources/ppc -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources -include /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes/macho-prefix.pch -c /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/TK.bpmtoms.c -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.o0#
+
+CCompileC build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/commonsyms.o /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c normal ppc c com.apple.compilers.gcc.4_2
+s336701917.250610
+e336701918.108961
+r1
+xCompileC
+xbuild/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/commonsyms.o
+x/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c336701917#336701918#0(0"0(0#0#92"/Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c8622745920#2313"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G4 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/TK.bpmtoms.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/include -I/Developer/SDKs/MacOSX10.6.sdk/Developer/Headers/FlatCarbon -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources/ppc -I/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/DerivedSources -include /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes/macho-prefix.pch -c /Users/traviskaufman/Documents/Code/MaxExternals/c74support/max-includes/common/commonsyms.c -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/commonsyms.o0#
+
+CCreateUniversalBinary /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms normal "ppc i386"
+s337017502.592987
+e337017502.698676
+r1
+xCreateUniversalBinary
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms
+xnormal
+xppc i386
+lSLF07#2@96"CreateUniversalBinary ../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms normal "ppc i386"337017502#337017502#0(0"0(0#0#90"/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/ppc i3868598780864#593"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    /usr/bin/lipo -create /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms -output /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/MacOS/TK.bpmtoms0#
+
+CLd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms normal i386
+s337017501.509202
+e337017502.592472
+r1
+xLd
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms
+xnormal
+xi386
+lSLF07#2@170"Link /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms337017501#337017502#0(0"0(0#0#0"8606194976#1279"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -filelist /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms.LinkFileList -mmacosx-version-min=10.6 -framework MaxAPI -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/i386/TK.bpmtoms0#
+
+CLd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms normal ppc
+s337017501.388275
+e337017502.592901
+r1
+xLd
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms
+xnormal
+xppc
+lSLF07#2@169"Link /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms337017501#337017502#0(0"0(0#0#0"8601066208#1276"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/max-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/msp-includes -F/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../c74support/jit-includes "-F/Library/Application Support/c74support/max-includes" -F/Developer/SDKs/MaxSDK-5.1.6/c74support/max-includes -filelist /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms.LinkFileList -mmacosx-version-min=10.6 -framework MaxAPI -o /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/TK.bpmtoms.build/Deployment/max-external.build/Objects-normal/ppc/TK.bpmtoms0#
+
+CProcessInfoPlistFile /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo/Contents/Info.plist /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../Info.plist
+r0
+
+CSymLink /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+s336701917.140871
+e336701917.204922
+r1
+xSymLink
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+lSLF07#2@121"Process /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo336701917#336701917#0(0"0(0#0#0"8622933152#332"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    /bin/ln -sf /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/build/Deployment/TK.bpmtoms.mxo0#
+
+CTouch /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+s337017502.698797
+e337017502.769425
+r1
+xTouch
+x/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo
+lSLF07#2@118"Touch /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo337017502#337017502#0(0"0(0#0#0"8599482400#224"    cd /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms    /usr/bin/touch -c /Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/TK.bpmtoms/../../sdk-build/TK.bpmtoms.mxo0#
+
